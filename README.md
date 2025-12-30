@@ -157,12 +157,14 @@ The Power BI report answers the following business questions:
 - Average Discount by Promotion  
 
 **Focus:** Overall business performance  
+<img width="1470" height="831" alt="Image" src="https://github.com/user-attachments/assets/b2200b7a-0a39-4d41-abf6-dd6325a18a8d" />
 
 ### 🔹 Page 2: Product Performance Analysis
 - Top 5 Products by Sales / Profit / Quantity  
 - Bottom 5 Products by Sales / Profit / Quantity  
 
 **Focus:** Product-level insights  
+<img width="1667" height="881" alt="Image" src="https://github.com/user-attachments/assets/c05a0dee-e091-4cd0-a162-8289962ad495" />
 
 ### 🔹 Page 3: Period Comparison Analysis
 - Dual date slicers  
@@ -171,19 +173,23 @@ The Power BI report answers the following business questions:
   - Total Profit  
   - Total Quantity Sold  
 
-**Focus:** Time-based performance evaluation  
+**Focus:** Time-based performance evaluation 
+<img width="1666" height="872" alt="Image" src="https://github.com/user-attachments/assets/b9b44dde-8565-4bdc-89fa-92d37a1d1048" />
 
 ### 🔹 Page 4: Edit Interactions
 - Controlled visual interactions  
-- Improved cross-filter behavior 
+- Improved cross-filter behavior
+  
  **Focus:** Improve user experience by controlling visual interactions and avoiding unnecessary cross-filtering.
+ <img width="1669" height="880" alt="Image" src="https://github.com/user-attachments/assets/2ebec48a-c2f4-4485-af46-ee2f7e36560f" /> 
 
 
 ### 🔹 Page 5: Detailed Table View
 - Order-level transaction data  
 - Fully interactive filtering  
 
-**Focus:** Granular inspection & validation  
+**Focus:** Granular inspection & validation 
+<img width="1666" height="866" alt="Image" src="https://github.com/user-attachments/assets/55bd670c-8811-4fe7-954e-8642e9296803" />
 
 ---
 
