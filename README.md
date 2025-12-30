@@ -42,6 +42,7 @@ The goal of this analysis is to:
 ## Data Model Overview
 
 A **Star Schema** was implemented for clarity and performance.
+<img width="1566" height="835" alt="Image" src="https://github.com/user-attachments/assets/589eda0b-1c6a-4853-9661-abbd23fe35a6" />
 
 ### Fact Table
 **Fact_Sales**
